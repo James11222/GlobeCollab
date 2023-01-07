@@ -6,7 +6,7 @@ A quick demo of how to make an interactive or animated globe with data.
 
 1. Clone this repository into your working directory. 
 2. Open up the `.ipynb` notebook under the `code` folder in this repo. 
-3. Install the required packages `numpy`, `pandas`, `pillow`, `plotly`, and `moviepy`
+3. Install the required packages `pip install -r requirements.txt`
 4. Update the `Collaborators.csv` file or change the source code yourself to reflect the data points you wish to highlight on your globe.
 5. The code should spit out the desired output files into the `outputs` folder
 
